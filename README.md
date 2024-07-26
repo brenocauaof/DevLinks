@@ -44,4 +44,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-By Breno Cauã
+Feito by Breno Cauã
